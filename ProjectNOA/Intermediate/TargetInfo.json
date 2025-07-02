@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectNOA",
+			"Path": "..\\Source\\ProjectNOA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectNOAEditor",
+			"Path": "..\\Source\\ProjectNOAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

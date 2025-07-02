@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\intermediate\\build\\win64\\unrealeditor\\inc\\projectnoa\\uht\\projectnoagamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\intermediate\\build\\win64\\x64\\projectnoaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectnoa\\definitions.projectnoa.h",
+            "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\source\\projectnoa\\projectnoagamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\intermediate\\build\\win64\\unrealeditor\\inc\\projectnoa\\uht\\projectnoagamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

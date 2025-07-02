@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\source\\projectnoa\\projectnoa.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\intermediate\\build\\win64\\x64\\projectnoaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectnoa\\definitions.projectnoa.h",
+            "c:\\users\\junghyunpark\\desktop\\pj_noa\\projectnoa\\projectnoa\\source\\projectnoa\\projectnoa.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
