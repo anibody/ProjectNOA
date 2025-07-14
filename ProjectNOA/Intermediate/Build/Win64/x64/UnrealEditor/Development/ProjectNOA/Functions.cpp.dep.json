@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\desktop\\desktop\\projectnoa\\projectnoa\\source\\projectnoa\\functions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\desktop\\desktop\\projectnoa\\projectnoa\\intermediate\\build\\win64\\x64\\projectnoaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\desktop\\desktop\\projectnoa\\projectnoa\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectnoa\\definitions.projectnoa.h",
+            "c:\\users\\desktop\\desktop\\projectnoa\\projectnoa\\source\\projectnoa\\functions.h",
+            "c:\\users\\desktop\\desktop\\projectnoa\\projectnoa\\intermediate\\build\\win64\\unrealeditor\\inc\\projectnoa\\uht\\functions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -11,6 +11,7 @@
     <None Include="..\..\Source\ProjectNOAEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -52,6 +53,18 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\ProjectNOA\ProjectNOAGameMode.h">
       <Filter>Source\ProjectNOA</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectNOA\Private">
+      <UniqueIdentifier>{953439EC-624D-3F16-8F80-E2C8D9FA0B7F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectNOA\Private\Functions.cpp">
+      <Filter>Source\ProjectNOA\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectNOA\Public">
+      <UniqueIdentifier>{A8D6E953-2243-39C0-AEF3-FD6F8C7E61A5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectNOA\Public\Functions.h">
+      <Filter>Source\ProjectNOA\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

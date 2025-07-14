@@ -1,8 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\junghyunPark\\Desktop\\PJ_NOA\\ProjectNOA\\ProjectNOA\\Source\\ProjectNOA\\ProjectNOA.Build.cs",
-		"C:\\Users\\junghyunPark\\Desktop\\PJ_NOA\\ProjectNOA\\ProjectNOA\\Source\\ProjectNOA.Target.cs",
-		"C:\\Users\\junghyunPark\\Desktop\\PJ_NOA\\ProjectNOA\\ProjectNOA\\Source\\ProjectNOAEditor.Target.cs"
+		"C:\\Users\\Desktop\\Desktop\\ProjectNOA\\ProjectNOA\\Source\\ProjectNOA\\ProjectNOA.Build.cs",
+		"C:\\Users\\Desktop\\Desktop\\ProjectNOA\\ProjectNOA\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\Desktop\\Desktop\\ProjectNOA\\ProjectNOA\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\Desktop\\Desktop\\ProjectNOA\\ProjectNOA\\Source\\ProjectNOA.Target.cs",
+		"C:\\Users\\Desktop\\Desktop\\ProjectNOA\\ProjectNOA\\Source\\ProjectNOAEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }
