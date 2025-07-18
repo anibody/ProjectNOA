@@ -3063,3 +3063,948 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.18-08.09.35:826][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2025.07.18-08.09.36:211][ 24]LogSlate: Window 'BT_Raven' being destroyed
 [2025.07.18-08.09.38:180][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.18-08.11.06:220][532]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Raven/AI/BT_Raven.BT_Raven
+[2025.07.18-08.12.20:464][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4576.623535
+[2025.07.18-08.12.21:464][298]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.18-08.12.21:464][298]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4577.290527, Update Interval: 318.818329
+[2025.07.18-08.13.35:821][303]LogUVisualStudioToolsBlueprintBreakpointExtension: Node is not a UK2Node_CallFunction
+[2025.07.18-08.13.59:275][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.13.59:296][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/BB_Raven] ([1] browsable assets)...
+[2025.07.18-08.13.59:296][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/BB_Raven]
+[2025.07.18-08.13.59:296][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/BB_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BB_Raven.uasset" SILENT=true
+[2025.07.18-08.13.59:297][247]LogSavePackage: Moving output files for package: /Game/Raven/AI/BB_Raven
+[2025.07.18-08.13.59:298][247]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BB_RavenCDD2D38149CC17E9561507B92CA0BA60.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BB_Raven.uasset'
+[2025.07.18-08.13.59:303][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.562 ms (total: 3.91 sec)
+[2025.07.18-08.13.59:333][247]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.13.59:333][247]LogContentValidation: Enabled validators:
+[2025.07.18-08.13.59:333][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.13.59:333][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.13.59:333][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.13.59:333][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.13.59:333][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.13.59:333][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.13.59:333][247]AssetCheck: /Game/Raven/AI/BB_Raven 에셋 유효성 검사 중
+[2025.07.18-08.14.00:269][357]LogSlate: Window 'BB_Raven' being destroyed
+[2025.07.18-08.14.00:271][357]LogSlate: Window 'BB_Raven' being destroyed
+[2025.07.18-08.15.50:409][943]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Raven/AI/BT_Raven.BT_Raven
+[2025.07.18-08.15.55:662][284]LogUVisualStudioToolsBlueprintBreakpointExtension: Node is not a UK2Node_CallFunction
+[2025.07.18-08.16.00:017][553]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.18-08.16.05:517][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.16.05:541][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/BT_Raven] ([1] browsable assets)...
+[2025.07.18-08.16.05:541][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/BT_Raven]
+[2025.07.18-08.16.05:541][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/BT_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset" SILENT=true
+[2025.07.18-08.16.05:548][127]LogSavePackage: Moving output files for package: /Game/Raven/AI/BT_Raven
+[2025.07.18-08.16.05:549][127]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BT_Raven130CE9F449AD6B9FA1C996B85CFB4C49.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset'
+[2025.07.18-08.16.05:554][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.322 ms (total: 3.95 sec)
+[2025.07.18-08.16.05:584][127]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.16.05:584][127]LogContentValidation: Enabled validators:
+[2025.07.18-08.16.05:584][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.16.05:584][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.16.05:584][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.16.05:584][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.16.05:584][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.16.05:584][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.16.05:584][127]AssetCheck: /Game/Raven/AI/BT_Raven 에셋 유효성 검사 중
+[2025.07.18-08.16.09:685][608]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.18-08.16.10:959][747]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/AI/Nodes/BTT_Parrying.BTT_Parrying
+[2025.07.18-08.16.10:959][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.07.18-08.16.16:674][405]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.16.16:674][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.16.16:755][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.18-08.16.22:988][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.16.23:010][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/BT_Raven] ([1] browsable assets)...
+[2025.07.18-08.16.23:010][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/BT_Raven]
+[2025.07.18-08.16.23:010][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/BT_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset" SILENT=true
+[2025.07.18-08.16.23:016][127]LogSavePackage: Moving output files for package: /Game/Raven/AI/BT_Raven
+[2025.07.18-08.16.23:017][127]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BT_RavenB0C75A7D492719C8AEFBFE8A6DE9B4FB.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset'
+[2025.07.18-08.16.23:022][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.882 ms (total: 3.99 sec)
+[2025.07.18-08.16.23:042][127]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.16.23:042][127]LogContentValidation: Enabled validators:
+[2025.07.18-08.16.23:042][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.16.23:042][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.16.23:043][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.16.23:043][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.16.23:043][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.16.23:043][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.16.23:043][127]AssetCheck: /Game/Raven/AI/BT_Raven 에셋 유효성 검사 중
+[2025.07.18-08.16.37:769][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/AI/Nodes/BTT_Evasion.BTT_Evasion
+[2025.07.18-08.16.37:769][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.07.18-08.16.46:884][663]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.16.46:884][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.16.46:931][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.18-08.16.47:697][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/AI/Nodes/BTT_Parrying.BTT_Parrying
+[2025.07.18-08.16.47:697][749]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.07.18-08.17.06:231][919]LogBlueprint: Warning: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] /Game/Raven/AI/Nodes/BTT_Parrying.BTT_Parrying_C'에서 "isEvading" 라는 이름의 변수를 찾을 수 없습니다.
+ Get isEvading 에 대해 '/Game/Raven/AI/Nodes/BTT_Parrying.BTT_Parrying_C' 컴파일이 되었는지 확인하세요.
+[2025.07.18-08.17.06:232][919]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] Object  타입이 결정되지 않았습니다. 특정 타입을 암시하려면  Cast To Raven_Controller 에 무언가를 연결하세요.
+[2025.07.18-08.17.06:232][919]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] '/Game/Raven/AI/Nodes/BTT_Parrying.BTT_Parrying_C'에서  Is Evading 와 연관된 프로퍼티를 찾지 못했습니다.
+[2025.07.18-08.17.06:232][919]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] ' Object ' 핀의 현재 값이 유효하지 않습니다: Unsupported type 와일드카드 on pin Object
+[2025.07.18-08.17.06:272][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.18-08.17.06:669][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.06:697][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.06:697][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.06:697][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.06:700][963]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.06:700][963]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_Parrying01E9D87B4AF790A3F400288A6E2BDD68.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.06:706][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.848 ms (total: 4.02 sec)
+[2025.07.18-08.17.06:731][963]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.06:731][963]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.06:731][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.06:731][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.06:731][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.06:731][963]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.06:731][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.06:731][963]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.06:731][963]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.09:583][301]LogUVisualStudioToolsBlueprintBreakpointExtension: Trying to get function definition for SetValueAsBool
+[2025.07.18-08.17.22:201][778]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] Object  타입이 결정되지 않았습니다. 특정 타입을 암시하려면  Cast To Raven_Controller 에 무언가를 연결하세요.
+[2025.07.18-08.17.22:201][778]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] ' Object ' 핀의 현재 값이 유효하지 않습니다: Unsupported type 와일드카드 on pin Object
+[2025.07.18-08.17.22:225][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.07.18-08.17.22:726][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.22:753][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.22:753][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.22:753][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.22:756][832]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.22:756][832]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_Parrying9177044843125DC8902D7CB98BAA161E.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.22:761][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.694 ms (total: 4.06 sec)
+[2025.07.18-08.17.22:788][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.22:788][832]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.22:788][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.22:788][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.22:788][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.22:788][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.22:788][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.22:788][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.22:788][832]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.23:165][876]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] Object  타입이 결정되지 않았습니다. 특정 타입을 암시하려면  Cast To Raven_Controller 에 무언가를 연결하세요.
+[2025.07.18-08.17.23:165][876]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\AI\Nodes\BTT_Parrying.uasset: [Compiler] ' Object ' 핀의 현재 값이 유효하지 않습니다: Unsupported type 와일드카드 on pin Object
+[2025.07.18-08.17.23:193][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.18-08.17.24:663][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.24:689][ 47]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.24:689][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.24:689][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.24:691][ 47]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.24:693][ 47]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_ParryingBFD2BAE74F176B315854E8B170ADC4B9.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.24:697][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.052 ms (total: 4.09 sec)
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.24:725][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.24:725][ 47]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.28:122][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.18-08.17.28:511][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.28:537][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.28:537][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.28:537][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.28:539][478]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.28:540][478]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_ParryingC0186CCB4FD066DD5AF6A0BD9DEBAF22.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.28:545][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.028 ms (total: 4.13 sec)
+[2025.07.18-08.17.28:573][478]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.28:573][478]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.28:573][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.28:573][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.28:573][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.28:573][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.28:573][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.28:573][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.28:573][478]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.30:470][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.07.18-08.17.30:845][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.30:871][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.30:871][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.30:871][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.30:875][736]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.30:875][736]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_ParryingFBEA34C248343239D535A6B673B6B9CB.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.30:880][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.737 ms (total: 4.16 sec)
+[2025.07.18-08.17.30:906][736]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.30:906][736]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.30:906][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.30:906][736]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.30:906][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.30:906][736]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.30:906][736]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.30:906][736]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.30:906][736]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.31:796][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.18-08.17.32:189][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.32:217][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.32:217][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.32:217][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.32:220][879]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.32:220][879]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_ParryingCE94EF6B4CEC1D634CA60B97033C61C1.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.32:225][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.517 ms (total: 4.20 sec)
+[2025.07.18-08.17.32:246][879]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.32:246][879]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.32:246][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.32:246][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.32:246][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.32:246][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.32:246][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.32:246][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.32:246][879]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.34:749][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.18-08.17.35:093][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.35:114][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.35:115][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.35:115][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.35:117][210]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.35:118][210]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_Parrying0E5C2B304D087A0B94CF38B2E8C0897F.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.35:122][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.866 ms (total: 4.23 sec)
+[2025.07.18-08.17.35:141][210]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.35:141][210]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.35:141][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.35:141][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.35:141][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.35:141][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.35:141][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.35:141][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.35:141][210]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.43:080][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.18-08.17.43:461][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.43:490][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_Parrying] ([2] browsable assets)...
+[2025.07.18-08.17.43:490][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_Parrying]
+[2025.07.18-08.17.43:490][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_Parrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset" SILENT=true
+[2025.07.18-08.17.43:493][193]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_Parrying
+[2025.07.18-08.17.43:493][193]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_Parrying3B3C443F408FFA90193033AFB924B1C1.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_Parrying.uasset'
+[2025.07.18-08.17.43:497][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.949 ms (total: 4.26 sec)
+[2025.07.18-08.17.43:532][193]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.43:532][193]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.43:532][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.43:532][193]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.43:532][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.43:532][193]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.43:532][193]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.43:532][193]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.43:532][193]AssetCheck: /Game/Raven/AI/Nodes/BTT_Parrying 에셋 유효성 검사 중
+[2025.07.18-08.17.52:179][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.18-08.17.52:190][213]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Raven/AI/Nodes/BTT_Parrying1.
+[2025.07.18-08.17.59:511][ 42]LogContentBrowser: Attempting asset rename: BTT_Parrying1 -> BTT_endParrying
+[2025.07.18-08.17.59:565][ 42]LogMetaData: Removing '/Game/Raven/AI/Nodes/BTT_endParrying.SKEL_BTT_endParrying_C' ref from Metadata '/Game/Raven/AI/Nodes/BTT_Parrying1.PackageMetaData'
+[2025.07.18-08.17.59:565][ 42]LogMetaData: Removing '/Game/Raven/AI/Nodes/BTT_endParrying.BTT_endParrying_C' ref from Metadata '/Game/Raven/AI/Nodes/BTT_Parrying1.PackageMetaData'
+[2025.07.18-08.17.59:565][ 42]LogMetaData: Removing '/Game/Raven/AI/Nodes/BTT_endParrying.SKEL_BTT_endParrying_C:ReceiveExecuteAI' ref from Metadata '/Game/Raven/AI/Nodes/BTT_Parrying1.PackageMetaData'
+[2025.07.18-08.17.59:565][ 42]LogMetaData: Removing '/Game/Raven/AI/Nodes/BTT_endParrying.BTT_endParrying_C:ReceiveExecuteAI' ref from Metadata '/Game/Raven/AI/Nodes/BTT_Parrying1.PackageMetaData'
+[2025.07.18-08.17.59:565][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.17.59:565][ 42]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_endParrying] ([2] browsable assets)...
+[2025.07.18-08.17.59:565][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_endParrying]
+[2025.07.18-08.17.59:565][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_endParrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_endParrying.uasset" SILENT=true
+[2025.07.18-08.17.59:568][ 42]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_endParrying
+[2025.07.18-08.17.59:568][ 42]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_endParrying10274A654F73DB2AE5C149A283D0742A.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_endParrying.uasset'
+[2025.07.18-08.17.59:570][ 42]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Raven/AI/Nodes/BTT_endParrying.
+[2025.07.18-08.17.59:571][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.218 ms (total: 4.27 sec)
+[2025.07.18-08.17.59:593][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.18-08.17.59:606][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.18-08.17.59:619][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: Enabled validators:
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.17.59:649][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.17.59:649][ 42]AssetCheck: /Game/Raven/AI/Nodes/BTT_endParrying 에셋 유효성 검사 중
+[2025.07.18-08.18.05:392][724]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/AI/Nodes/BTT_endParrying.BTT_endParrying
+[2025.07.18-08.18.05:394][724]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.07.18-08.18.19:907][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4936.060547
+[2025.07.18-08.18.20:158][707]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.18-08.18.20:158][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4936.302734, Update Interval: 357.760559
+[2025.07.18-08.18.22:661][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.18-08.18.23:187][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.18.23:235][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/Nodes/BTT_endParrying] ([2] browsable assets)...
+[2025.07.18-08.18.23:235][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/Nodes/BTT_endParrying]
+[2025.07.18-08.18.23:235][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/Nodes/BTT_endParrying" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_endParrying.uasset" SILENT=true
+[2025.07.18-08.18.23:237][892]LogSavePackage: Moving output files for package: /Game/Raven/AI/Nodes/BTT_endParrying
+[2025.07.18-08.18.23:238][892]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BTT_endParrying4047B7BF467F77112732E288DC6073A1.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/Nodes/BTT_endParrying.uasset'
+[2025.07.18-08.18.23:244][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.856 ms (total: 4.33 sec)
+[2025.07.18-08.18.23:271][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.18.23:271][892]LogContentValidation: Enabled validators:
+[2025.07.18-08.18.23:271][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.18.23:271][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.18.23:271][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.18.23:271][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.18.23:271][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.18.23:271][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.18.23:273][892]AssetCheck: /Game/Raven/AI/Nodes/BTT_endParrying 에셋 유효성 검사 중
+[2025.07.18-08.18.25:441][ 53]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.18.25:441][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.18.25:478][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.07.18-08.18.27:153][168]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.18.27:153][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.18.27:191][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.18-08.18.28:904][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/AI/Nodes/BTT_endEvasion.BTT_endEvasion
+[2025.07.18-08.18.28:904][368]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.07.18-08.18.30:633][551]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.18.30:633][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.18.30:678][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.18-08.18.32:374][748]Cmd: TRANSACTION UNDO
+[2025.07.18-08.18.32:374][748]LogEditorTransaction: Undo 노드 이동
+[2025.07.18-08.18.34:661][971]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.18-08.18.39:991][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.18.40:020][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/BT_Raven] ([1] browsable assets)...
+[2025.07.18-08.18.40:020][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/BT_Raven]
+[2025.07.18-08.18.40:020][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/BT_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset" SILENT=true
+[2025.07.18-08.18.40:027][593]LogSavePackage: Moving output files for package: /Game/Raven/AI/BT_Raven
+[2025.07.18-08.18.40:027][593]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BT_Raven70F3786E4908CA9E5F451AA15A7D5845.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset'
+[2025.07.18-08.18.40:034][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.290 ms (total: 4.37 sec)
+[2025.07.18-08.18.40:060][593]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.18.40:061][593]LogContentValidation: Enabled validators:
+[2025.07.18-08.18.40:061][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.18.40:061][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.18.40:061][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.18.40:061][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.18.40:061][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.18.40:061][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.18.40:061][593]AssetCheck: /Game/Raven/AI/BT_Raven 에셋 유효성 검사 중
+[2025.07.18-08.19.27:581][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/BP_Raven.BP_Raven
+[2025.07.18-08.19.27:581][222]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.07.18-08.19.33:192][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.19.33:221][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.19.33:222][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.19.33:222][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.19.33:240][724]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.19.33:240][724]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven4FB0842F4E0A6D325E3650BCF90FEA3C.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.19.33:247][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.551 ms (total: 4.43 sec)
+[2025.07.18-08.19.33:270][724]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.19.33:270][724]LogContentValidation: Enabled validators:
+[2025.07.18-08.19.33:270][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.19.33:270][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.19.33:270][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.19.33:270][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.19.33:270][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.19.33:270][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.19.33:270][724]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.19.33:270][724]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.19.59:596][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/AI/Nodes/BTT_Parrying.BTT_Parrying
+[2025.07.18-08.19.59:596][781]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.07.18-08.20.02:025][ 50]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.20.02:025][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.20.02:093][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.07.18-08.20.04:213][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/AI/Nodes/BTT_endParrying.BTT_endParrying
+[2025.07.18-08.20.04:213][287]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.07.18-08.20.06:871][584]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.20.06:871][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.20.06:918][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.18-08.20.10:571][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.20.10:621][974]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.20.10:621][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.20.10:621][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.20.10:638][974]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.20.10:639][974]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven4584CD50421A55ED02072898E75B4E2E.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.20.10:646][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.615 ms (total: 4.50 sec)
+[2025.07.18-08.20.10:681][974]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.20.10:681][974]LogContentValidation: Enabled validators:
+[2025.07.18-08.20.10:681][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.20.10:681][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.20.10:681][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.20.10:681][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.20.10:681][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.20.10:681][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.20.10:681][974]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.20.10:681][974]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.20.59:073][ 14]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\BP_Raven.uasset: [Compiler] 이 블루프린트(셀프)는 BlackboardComponent 이지 않으므로, ' Target '에 연결이 있어야 합니다.
+[2025.07.18-08.20.59:107][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.18-08.20.59:553][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.20.59:579][ 52]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.20.59:645][ 52]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.20.59:645][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.20.59:645][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.20.59:663][ 52]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.20.59:664][ 52]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_RavenA7340CD74217C46A89E79EAC91B6250C.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.20.59:670][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.731 ms (total: 4.62 sec)
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: Enabled validators:
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.20.59:701][ 52]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.20.59:701][ 52]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.20.59:701][ 52]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.09:421][ 99]LogBlueprint: Error: [AssetLog] C:\Users\Desktop\Desktop\ProjectNOA\ProjectNOA\Content\Raven\BP_Raven.uasset: [Compiler] ' Key Name ' 핀의 현재 값(None)이 유효하지 않습니다: 'SetValueAsBool' 작업의 'Key Name'에는 반드시 입력이 연결되어 있어야 합니다("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2025.07.18-08.21.09:457][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.18-08.21.09:831][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.21.09:856][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.21.09:921][133]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.21.09:921][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.21.09:921][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.21.09:940][133]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.21.09:941][133]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven369D0F2742FD40D468927C9D0F34C0EC.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.21.09:949][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.408 ms (total: 4.74 sec)
+[2025.07.18-08.21.09:974][133]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.21.09:974][133]LogContentValidation: Enabled validators:
+[2025.07.18-08.21.09:974][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.21.09:974][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.21.09:974][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.21.09:974][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.21.09:974][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.21.09:974][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.21.09:974][133]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.09:974][133]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.16:846][943]LogUVisualStudioToolsBlueprintBreakpointExtension: Trying to get function definition for SetValueAsBool
+[2025.07.18-08.21.20:605][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.18-08.21.21:564][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.21.21:591][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.21.21:658][417]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.21.21:658][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.21.21:658][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.21.21:676][417]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.21.21:677][417]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven33398F994E0339B0BB7979B6B2B3E4BC.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.21.21:685][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.364 ms (total: 4.86 sec)
+[2025.07.18-08.21.21:710][417]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.21.21:710][417]LogContentValidation: Enabled validators:
+[2025.07.18-08.21.21:710][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.21.21:710][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.21.21:710][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.21.21:710][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.21.21:710][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.21.21:710][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.21.21:710][417]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.21:710][417]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.30:973][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.18-08.21.31:444][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.21.31:468][488]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.21.31:536][488]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.21.31:536][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.21.31:536][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.21.31:556][488]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.21.31:556][488]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven7040AD7441736E2AB574728950C3A75E.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.21.31:564][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.505 ms (total: 4.98 sec)
+[2025.07.18-08.21.31:586][488]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.21.31:586][488]LogContentValidation: Enabled validators:
+[2025.07.18-08.21.31:586][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.21.31:586][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.21.31:586][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.21.31:586][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.21.31:586][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.21.31:586][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.21.31:586][488]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.31:586][488]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.33:589][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.18-08.21.34:295][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.21.34:322][764]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.21.34:389][764]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.21.34:389][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.21.34:389][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.21.34:408][764]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.21.34:408][764]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven291A92DF40946EE0DDECE28D9606740A.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.21.34:416][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.277 ms (total: 5.10 sec)
+[2025.07.18-08.21.34:447][764]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.21.34:447][764]LogContentValidation: Enabled validators:
+[2025.07.18-08.21.34:447][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.21.34:447][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.21.34:447][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.21.34:447][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.21.34:447][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.21.34:447][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.21.34:447][764]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.21.34:447][764]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.22.04:136][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.18-08.22.04:524][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.22.04:551][291]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.22.04:619][291]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.22.04:619][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.22.04:619][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.22.04:638][291]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.22.04:638][291]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven282D88E9434EB28AED27618786FC9F8A.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.22.04:645][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.392 ms (total: 5.22 sec)
+[2025.07.18-08.22.04:677][291]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.22.04:677][291]LogContentValidation: Enabled validators:
+[2025.07.18-08.22.04:677][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.22.04:677][291]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.22.04:677][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.22.04:677][291]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.22.04:677][291]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.22.04:677][291]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.22.04:677][291]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.22.04:677][291]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.22.12:505][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.18-08.22.12:914][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.22.12:941][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.22.13:007][228]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.22.13:007][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.22.13:007][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.22.13:026][228]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.22.13:026][228]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven3A5A1D854885CF222D15C7B1152E2DEC.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.22.13:033][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.447 ms (total: 5.34 sec)
+[2025.07.18-08.22.13:051][228]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.22.13:051][228]LogContentValidation: Enabled validators:
+[2025.07.18-08.22.13:051][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.22.13:051][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.22.13:051][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.22.13:051][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.22.13:051][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.22.13:051][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.22.13:051][228]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.22.13:051][228]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.22.14:884][437]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.22.14:884][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.22.14:936][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.18-08.22.22:752][358]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.07.18-08.22.22:757][358]LogContentBundle: [ThirdPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2025.07.18-08.22.22:757][358]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.18-08.22.22:759][358]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.969 ms (total: 19.728 ms)
+[2025.07.18-08.22.22:765][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.18-08.22.22:804][358]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2025.07.18-08.22.22:806][358]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.07.18-08.22.22:821][359]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.22.22:825][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003243s)
+[2025.07.18-08.22.22:825][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003275s)
+[2025.07.18-08.22.22:837][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.18-08.22.22:841][359]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.18-08.22.22:843][359]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.18-08.22.22:843][359]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.18-08.22.22:843][359]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.18-08.22.22:843][359]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.18-08.22.22:844][359]LogWorldPartition: Display: WorldPartition initialize took 1.247 ms (total: 213.980 ms)
+[2025.07.18-08.22.22:844][359]LogPlayLevel: PIE: World Init took: (0.002566s)
+[2025.07.18-08.22.22:844][359]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.07.18-08.22.22:845][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.18-08.22.22:845][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.18-08.22.22:845][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.18-08.22.22:845][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.18-08.22.22:845][359]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.18-08.22.22:845][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.18-08.22.22:845][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.18-08.22.22:845][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.18-08.22.22:845][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.18-08.22.22:845][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.18-08.22.22:845][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.18-08.22.22:847][359]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.18-08.22.22:866][359]LogAudioMixer: Display: Using Audio Hardware Device 4 - HDMI(AMD High Definition Audio Device)
+[2025.07.18-08.22.22:866][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.18-08.22.22:866][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.18-08.22.22:866][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.18-08.22.22:866][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.07.18-08.22.22:866][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.07.18-08.22.22:868][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.07.18-08.22.22:868][359]LogInit: FAudioDevice initialized with ID 11.
+[2025.07.18-08.22.22:868][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.07.18-08.22.22:868][359]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.07.18-08.22.22:868][359]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.07.18-08.22.22:871][359]LogLoad: Game class is 'ProjectNOAGameMode'
+[2025.07.18-08.22.22:872][359]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.18-17.22.22
+[2025.07.18-08.22.22:874][359]LogWorld: Bringing up level for play took: 0.002768
+[2025.07.18-08.22.22:877][359]PIE: 서버가 로그인했습니다.
+[2025.07.18-08.22.22:878][359]PIE: 에디터에서 플레이 총 시작 시간 0.121초입니다.
+[2025.07.18-08.22.22:879][359]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.22.23:263][392]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 4.3 남은 실드 : 1.8
+[2025.07.18-08.22.23:811][458]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 3.6 남은 실드 : 1.1
+[2025.07.18-08.22.24:062][488]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 2.9 남은 실드 : 0.4
+[2025.07.18-08.22.24:467][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.22.24:467][533]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.22.24:468][533]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.22.24:468][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.22.24:468][533]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.18-08.22.24:471][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.18-08.22.24:475][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.22.24:492][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.22.24:492][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.07.18-08.22.24:492][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.07.18-08.22.24:494][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.07.18-08.22.24:499][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.07.18-08.22.24:555][535]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.07.18-08.22.31:793][110]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/BP_Raven.BP_Raven
+[2025.07.18-08.22.31:793][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.07.18-08.23.40:358][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.18-08.23.40:842][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.23.40:867][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.23.40:933][620]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.23.40:933][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.23.40:933][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.23.40:952][620]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.23.40:952][620]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_RavenA139785B45D0224F0739D784EAA4D246.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.23.40:960][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.186 ms (total: 5.46 sec)
+[2025.07.18-08.23.40:990][620]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.23.40:990][620]LogContentValidation: Enabled validators:
+[2025.07.18-08.23.40:990][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.23.40:990][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.23.40:991][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.23.40:991][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.23.40:991][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.23.40:991][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.23.40:991][620]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.23.40:991][620]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.23.54:998][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.18-08.23.55:406][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.23.55:431][275]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.23.55:498][275]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.23.55:498][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.23.55:498][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.23.55:517][275]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.23.55:517][275]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_RavenE81860ED4D93A064F3BFF9B49B42B3C7.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.23.55:525][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.704 ms (total: 5.57 sec)
+[2025.07.18-08.23.55:554][275]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.23.55:554][275]LogContentValidation: Enabled validators:
+[2025.07.18-08.23.55:554][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.23.55:554][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.23.55:554][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.23.55:554][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.23.55:554][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.23.55:554][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.23.55:554][275]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.23.55:554][275]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.24.00:661][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.18-08.24.01:017][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.24.01:041][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Raven/BP_Raven] ([3] browsable assets)...
+[2025.07.18-08.24.01:107][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Raven/BP_Raven.BP_Raven]
+[2025.07.18-08.24.01:107][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/BP_Raven]
+[2025.07.18-08.24.01:107][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/BP_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset" SILENT=true
+[2025.07.18-08.24.01:126][907]LogSavePackage: Moving output files for package: /Game/Raven/BP_Raven
+[2025.07.18-08.24.01:126][907]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BP_Raven085112CE4AF3475484984BA62D78D43E.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/BP_Raven.uasset'
+[2025.07.18-08.24.01:133][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.811 ms (total: 5.69 sec)
+[2025.07.18-08.24.01:153][907]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.18-08.24.01:153][907]LogContentValidation: Enabled validators:
+[2025.07.18-08.24.01:153][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.24.01:153][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.24.01:153][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.24.01:153][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.24.01:153][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.24.01:153][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.24.01:153][907]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.24.01:153][907]AssetCheck: /Game/Raven/BP_Raven 에셋 유효성 검사 중
+[2025.07.18-08.24.02:367][ 45]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.07.18-08.24.02:371][ 45]LogContentBundle: [ThirdPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2025.07.18-08.24.02:371][ 45]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.18-08.24.02:374][ 45]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.779 ms (total: 21.507 ms)
+[2025.07.18-08.24.02:377][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.18-08.24.02:404][ 45]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2025.07.18-08.24.02:406][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.07.18-08.24.02:421][ 46]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.24.02:425][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003540s)
+[2025.07.18-08.24.02:425][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003572s)
+[2025.07.18-08.24.02:441][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.18-08.24.02:447][ 46]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.18-08.24.02:448][ 46]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.18-08.24.02:448][ 46]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.18-08.24.02:448][ 46]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.18-08.24.02:448][ 46]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.18-08.24.02:449][ 46]LogWorldPartition: Display: WorldPartition initialize took 1.349 ms (total: 215.329 ms)
+[2025.07.18-08.24.02:449][ 46]LogPlayLevel: PIE: World Init took: (0.002771s)
+[2025.07.18-08.24.02:450][ 46]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.07.18-08.24.02:450][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.18-08.24.02:450][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.18-08.24.02:450][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.18-08.24.02:450][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.18-08.24.02:450][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.18-08.24.02:450][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.18-08.24.02:450][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.18-08.24.02:450][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.18-08.24.02:450][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.18-08.24.02:450][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.18-08.24.02:450][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.18-08.24.02:453][ 46]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.18-08.24.02:469][ 46]LogAudioMixer: Display: Using Audio Hardware Device 4 - HDMI(AMD High Definition Audio Device)
+[2025.07.18-08.24.02:470][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.18-08.24.02:470][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.18-08.24.02:470][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.18-08.24.02:470][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.07.18-08.24.02:470][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.07.18-08.24.02:473][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.07.18-08.24.02:473][ 46]LogInit: FAudioDevice initialized with ID 12.
+[2025.07.18-08.24.02:473][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.07.18-08.24.02:473][ 46]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.07.18-08.24.02:473][ 46]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.07.18-08.24.02:475][ 46]LogLoad: Game class is 'ProjectNOAGameMode'
+[2025.07.18-08.24.02:477][ 46]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.18-17.24.02
+[2025.07.18-08.24.02:478][ 46]LogWorld: Bringing up level for play took: 0.002773
+[2025.07.18-08.24.02:482][ 46]PIE: 서버가 로그인했습니다.
+[2025.07.18-08.24.02:483][ 46]PIE: 에디터에서 플레이 총 시작 시간 0.111초입니다.
+[2025.07.18-08.24.02:484][ 46]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.04:099][227]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.04:524][278]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.04:857][318]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.05:048][341]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.05:215][361]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.05:374][380]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.05:524][398]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.05:532][399]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.05:690][418]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.05:906][444]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.06:049][461]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.06:223][482]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.06:615][529]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.06:789][550]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.06:981][573]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.07:223][602]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.07:415][625]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.07:590][646]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.07:781][669]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.07:974][692]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.08:148][713]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.08:348][737]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.08:532][759]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.08:556][762]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.08:707][780]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.08:898][803]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.09:082][825]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.09:273][848]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.09:449][869]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.09:624][890]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.09:789][910]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.09:957][930]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.10:106][948]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.10:274][968]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.10:440][988]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.10:598][  7]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.10:765][ 27]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.10:932][ 47]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.11:408][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.24.11:408][100]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.24.11:408][100]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.24.11:408][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.24.11:408][100]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.18-08.24.11:410][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.18-08.24.11:416][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.24.11:431][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.18-08.24.11:431][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.07.18-08.24.11:431][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.07.18-08.24.11:434][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.07.18-08.24.11:438][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.24.11:440][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.07.18-08.24.11:493][102]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.07.18-08.24.20:045][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.24.20:126][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/BT_Raven] ([1] browsable assets)...
+[2025.07.18-08.24.20:126][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/BT_Raven]
+[2025.07.18-08.24.20:126][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/BT_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset" SILENT=true
+[2025.07.18-08.24.20:134][861]LogSavePackage: Moving output files for package: /Game/Raven/AI/BT_Raven
+[2025.07.18-08.24.20:134][861]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BT_Raven704647A44C380B4E797E67B0C7B5587F.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset'
+[2025.07.18-08.24.20:143][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.508 ms (total: 5.79 sec)
+[2025.07.18-08.24.20:182][861]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.24.20:182][861]LogContentValidation: Enabled validators:
+[2025.07.18-08.24.20:182][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.24.20:182][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.24.20:182][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.24.20:182][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.24.20:182][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.24.20:182][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.24.20:182][861]AssetCheck: /Game/Raven/AI/BT_Raven 에셋 유효성 검사 중
+[2025.07.18-08.24.21:948][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.24.21:979][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/BT_Raven] ([1] browsable assets)...
+[2025.07.18-08.24.21:979][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/BT_Raven]
+[2025.07.18-08.24.21:979][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/BT_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset" SILENT=true
+[2025.07.18-08.24.21:986][ 62]LogSavePackage: Moving output files for package: /Game/Raven/AI/BT_Raven
+[2025.07.18-08.24.21:986][ 62]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BT_Raven200C26204D889D88CBE40DAFA94F95DD.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset'
+[2025.07.18-08.24.21:993][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.062 ms (total: 5.83 sec)
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: Enabled validators:
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.24.22:020][ 62]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.24.22:020][ 62]AssetCheck: /Game/Raven/AI/BT_Raven 에셋 유효성 검사 중
+[2025.07.18-08.24.29:007][522]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.07.18-08.24.29:013][522]LogContentBundle: [ThirdPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2025.07.18-08.24.29:013][522]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.18-08.24.29:015][522]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.828 ms (total: 23.335 ms)
+[2025.07.18-08.24.29:018][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.18-08.24.29:018][522]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2025.07.18-08.24.29:020][522]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.07.18-08.24.29:042][523]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.24.29:046][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004263s)
+[2025.07.18-08.24.29:047][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004300s)
+[2025.07.18-08.24.29:063][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.07.18-08.24.29:067][523]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.18-08.24.29:069][523]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.18-08.24.29:069][523]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.18-08.24.29:069][523]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.18-08.24.29:069][523]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.18-08.24.29:070][523]LogWorldPartition: Display: WorldPartition initialize took 1.434 ms (total: 216.764 ms)
+[2025.07.18-08.24.29:070][523]LogPlayLevel: PIE: World Init took: (0.002945s)
+[2025.07.18-08.24.29:071][523]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.07.18-08.24.29:071][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.18-08.24.29:071][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.18-08.24.29:071][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.18-08.24.29:071][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.18-08.24.29:071][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.18-08.24.29:071][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.18-08.24.29:071][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.18-08.24.29:071][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.18-08.24.29:071][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.18-08.24.29:071][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.18-08.24.29:071][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.18-08.24.29:073][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.18-08.24.29:091][523]LogAudioMixer: Display: Using Audio Hardware Device 4 - HDMI(AMD High Definition Audio Device)
+[2025.07.18-08.24.29:091][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.18-08.24.29:091][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.18-08.24.29:091][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.18-08.24.29:091][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.07.18-08.24.29:091][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.07.18-08.24.29:094][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.07.18-08.24.29:094][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.07.18-08.24.29:094][523]LogInit: FAudioDevice initialized with ID 13.
+[2025.07.18-08.24.29:094][523]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2025.07.18-08.24.29:094][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.18-08.24.29:097][523]LogLoad: Game class is 'ProjectNOAGameMode'
+[2025.07.18-08.24.29:098][523]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.18-17.24.29
+[2025.07.18-08.24.29:100][523]LogWorld: Bringing up level for play took: 0.003019
+[2025.07.18-08.24.29:103][523]PIE: 서버가 로그인했습니다.
+[2025.07.18-08.24.29:104][523]PIE: 에디터에서 플레이 총 시작 시간 0.092초입니다.
+[2025.07.18-08.24.29:265][527]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.30:877][641]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.32:828][776]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 4.3 남은 실드 : 1.8
+[2025.07.18-08.24.33:549][827]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 3.6 남은 실드 : 1.1
+[2025.07.18-08.24.33:898][852]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.34:063][863]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.35:100][933]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.35:491][960]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.35:971][996]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.36:607][ 42]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.37:457][101]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 2.9 남은 실드 : 0.4
+[2025.07.18-08.24.38:334][166]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 2.2 남은 실드 : -0.3
+[2025.07.18-08.24.38:334][166]LogBlueprintUserMessages: [BTT_Stiffness_C_0] 경직
+[2025.07.18-08.24.39:387][243]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 1.5 남은 실드 : -0.3
+[2025.07.18-08.24.39:561][254]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.41:031][351]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.41:645][389]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.42:097][417]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.42:494][443]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.42:879][467]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 0.8 남은 실드 : -0.3
+[2025.07.18-08.24.43:466][503]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 0.1 남은 실드 : -0.3
+[2025.07.18-08.24.44:193][548]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : -0.6 남은 실드 : -0.3
+[2025.07.18-08.24.44:194][548]LogBlueprintUserMessages: [BTT_Die_C_0] 사망
+[2025.07.18-08.24.45:998][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.24.45:998][658]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.24.45:998][658]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.24.45:998][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.24.45:998][658]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.18-08.24.46:003][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.18-08.24.46:008][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.24.46:026][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.24.46:027][658]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.18-08.24.46:027][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.18-08.24.46:029][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.18-08.24.46:036][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.07.18-08.24.46:099][660]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.07.18-08.24.46:818][746]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.07.18-08.24.46:823][746]LogContentBundle: [ThirdPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2025.07.18-08.24.46:823][746]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.18-08.24.46:825][746]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.850 ms (total: 25.186 ms)
+[2025.07.18-08.24.46:829][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.18-08.24.46:829][746]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2025.07.18-08.24.46:831][746]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.07.18-08.24.46:847][747]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.24.46:852][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003441s)
+[2025.07.18-08.24.46:852][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003474s)
+[2025.07.18-08.24.46:865][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.07.18-08.24.46:867][747]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.18-08.24.46:868][747]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.18-08.24.46:868][747]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.18-08.24.46:868][747]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.18-08.24.46:868][747]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.18-08.24.46:869][747]LogWorldPartition: Display: WorldPartition initialize took 1.219 ms (total: 217.984 ms)
+[2025.07.18-08.24.46:869][747]LogPlayLevel: PIE: World Init took: (0.002472s)
+[2025.07.18-08.24.46:869][747]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.07.18-08.24.46:869][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.18-08.24.46:869][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.18-08.24.46:869][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.18-08.24.46:869][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.18-08.24.46:869][747]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.18-08.24.46:869][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.18-08.24.46:869][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.18-08.24.46:869][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.18-08.24.46:869][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.18-08.24.46:869][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.18-08.24.46:869][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.18-08.24.46:871][747]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.18-08.24.46:889][747]LogAudioMixer: Display: Using Audio Hardware Device 4 - HDMI(AMD High Definition Audio Device)
+[2025.07.18-08.24.46:889][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.18-08.24.46:889][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.18-08.24.46:889][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.18-08.24.46:889][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.07.18-08.24.46:889][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.07.18-08.24.46:891][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.07.18-08.24.46:891][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.07.18-08.24.46:891][747]LogInit: FAudioDevice initialized with ID 14.
+[2025.07.18-08.24.46:891][747]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2025.07.18-08.24.46:891][747]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.18-08.24.46:894][747]LogLoad: Game class is 'ProjectNOAGameMode'
+[2025.07.18-08.24.46:895][747]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.18-17.24.46
+[2025.07.18-08.24.46:896][747]LogWorld: Bringing up level for play took: 0.002657
+[2025.07.18-08.24.46:900][747]PIE: 서버가 로그인했습니다.
+[2025.07.18-08.24.46:901][747]PIE: 에디터에서 플레이 총 시작 시간 0.077초입니다.
+[2025.07.18-08.24.47:014][749]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.47:698][826]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.47:977][859]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.48:831][961]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.49:249][ 11]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.49:624][ 56]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.50:016][103]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.50:441][154]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.50:533][165]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.50:875][206]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.51:267][253]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.51:626][296]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.51:963][336]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.52:321][379]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.52:854][443]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.53:180][482]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.53:614][534]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 4.3 남은 실드 : 1.8
+[2025.07.18-08.24.54:083][590]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 3.6 남은 실드 : 1.1
+[2025.07.18-08.24.54:503][640]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 2.9 남은 실드 : 0.4
+[2025.07.18-08.24.54:875][684]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 2.2 남은 실드 : -0.3
+[2025.07.18-08.24.54:875][684]LogBlueprintUserMessages: [BTT_Stiffness_C_0] 경직
+[2025.07.18-08.24.55:681][780]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 1.5 남은 실드 : -0.3
+[2025.07.18-08.24.56:049][824]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 0.8 남은 실드 : -0.3
+[2025.07.18-08.24.56:670][898]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : 0.1 남은 실드 : -0.3
+[2025.07.18-08.24.56:946][931]LogBlueprintUserMessages: [BTT_Parrying_C_0] 패링
+[2025.07.18-08.24.57:013][939]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.57:833][ 37]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.58:127][ 72]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.58:445][110]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.58:728][144]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.59:020][179]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.59:311][214]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.24.59:661][256]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 공격 패링
+[2025.07.18-08.25.00:055][303]LogBlueprintUserMessages: [BP_Raven_C_UAID_3CF011E78E52407902_1468316535] 남은 체력 : -0.6 남은 실드 : -0.3
+[2025.07.18-08.25.00:056][303]LogBlueprintUserMessages: [BTT_Die_C_0] 사망
+[2025.07.18-08.25.01:468][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.25.01:468][467]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-08.25.01:468][467]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.25.01:468][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.25.01:468][467]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.18-08.25.01:471][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.18-08.25.01:476][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.25.01:489][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-08.25.01:489][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.18-08.25.01:489][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.18-08.25.01:492][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.18-08.25.01:497][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.07.18-08.25.01:523][468]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.07.18-08.25.10:987][541]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5347.118164
+[2025.07.18-08.25.11:235][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.18-08.25.11:235][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5347.356934, Update Interval: 323.835571
+[2025.07.18-08.25.26:169][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-08.25.26:197][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Raven/AI/BT_Raven] ([1] browsable assets)...
+[2025.07.18-08.25.26:197][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Raven/AI/BT_Raven]
+[2025.07.18-08.25.26:197][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raven/AI/BT_Raven" FILE="../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset" SILENT=true
+[2025.07.18-08.25.26:203][335]LogSavePackage: Moving output files for package: /Game/Raven/AI/BT_Raven
+[2025.07.18-08.25.26:204][335]LogSavePackage: Moving '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Saved/BT_RavenF666015A4E8BF80B6212EBAD9D202038.tmp' to '../../../../../../Users/Desktop/Desktop/ProjectNOA/ProjectNOA/Content/Raven/AI/BT_Raven.uasset'
+[2025.07.18-08.25.26:211][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.945 ms (total: 5.88 sec)
+[2025.07.18-08.25.26:238][335]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-08.25.26:238][335]LogContentValidation: Enabled validators:
+[2025.07.18-08.25.26:238][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-08.25.26:238][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-08.25.26:238][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-08.25.26:238][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-08.25.26:238][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-08.25.26:238][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-08.25.26:238][335]AssetCheck: /Game/Raven/AI/BT_Raven 에셋 유효성 검사 중
+[2025.07.18-08.27.39:485][305]LogSlate: Window 'BP_Raven' being destroyed
+[2025.07.18-08.27.39:514][305]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.27.39:514][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.27.39:565][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.18-08.27.42:250][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.18-08.27.56:520][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Raven/BP_Raven.BP_Raven
+[2025.07.18-08.27.56:522][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.07.18-08.29.12:417][ 90]LogSlate: Window 'BP_Raven' being destroyed
+[2025.07.18-08.29.12:464][ 90]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-08.29.12:464][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-08.29.12:550][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.07.18-08.29.14:271][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
